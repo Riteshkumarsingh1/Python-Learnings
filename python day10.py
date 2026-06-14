@@ -2,4 +2,4 @@
 name = input("Enter your name: ")
 print("Hello, " + name)
 number= int(input("enter the no:"))
-print ("the square of a no is ", number**2)
+print ("the square of a no is ",)
