@@ -170,3 +170,10 @@ if __name__ == "__main__":
 # If all questions correct → grand prize.
 
 # Print final amount.
+
+
+
+
+
+
+
