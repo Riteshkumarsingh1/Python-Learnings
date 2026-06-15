@@ -93,7 +93,7 @@ locations[(34.0522, -118.2437)] = "LA"
 print(locations[(40.7128, -74.0060)])  # NYC
 
 
-# TUPLE CONTAINING LIST IS NOT HASHABLE
+# TUPLE CONTAINING LIST IS NOT HASHABLE nethir in dictionary
 {(1, [2,3]): "value"}   # TypeError: unhashable type: 'list'
 
 
